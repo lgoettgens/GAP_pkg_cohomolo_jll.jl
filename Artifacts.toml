@@ -1,0 +1,86 @@
+[[GAP_pkg_cohomolo]]
+arch = "aarch64"
+git-tree-sha1 = "c2e8bfc57649a681487a15be2c71b3bf6f8c0212"
+os = "macos"
+
+    [[GAP_pkg_cohomolo.download]]
+    sha256 = "289efcfa36fd4db9bfe6113563992249c4871e44eb56eef7eae48ec30ca44d13"
+    url = "https://github.com/lgoettgens/GAP_pkg_cohomolo_jll.jl/releases/download/GAP_pkg_cohomolo-v101.61200.0+1/GAP_pkg_cohomolo.v101.61200.0.aarch64-apple-darwin.tar.gz"
+[[GAP_pkg_cohomolo]]
+arch = "aarch64"
+git-tree-sha1 = "8aa025997834022879a1489c52ab0c90e042add7"
+libc = "glibc"
+os = "linux"
+
+    [[GAP_pkg_cohomolo.download]]
+    sha256 = "bc20c6e657f72495e72024459304d6574bd518c0ed84ca61725ca26200b78fb3"
+    url = "https://github.com/lgoettgens/GAP_pkg_cohomolo_jll.jl/releases/download/GAP_pkg_cohomolo-v101.61200.0+1/GAP_pkg_cohomolo.v101.61200.0.aarch64-linux-gnu.tar.gz"
+[[GAP_pkg_cohomolo]]
+arch = "aarch64"
+git-tree-sha1 = "a567d745f95b1589bf1aab187d179ebe318bfcee"
+libc = "musl"
+os = "linux"
+
+    [[GAP_pkg_cohomolo.download]]
+    sha256 = "edacc2d746a1b6427f8239b555f61aaa66bc57e28db339f88262a90650ae8972"
+    url = "https://github.com/lgoettgens/GAP_pkg_cohomolo_jll.jl/releases/download/GAP_pkg_cohomolo-v101.61200.0+1/GAP_pkg_cohomolo.v101.61200.0.aarch64-linux-musl.tar.gz"
+[[GAP_pkg_cohomolo]]
+arch = "aarch64"
+git-tree-sha1 = "e76b84fc132435e2fd04db0620e9ade96f07fec1"
+os = "freebsd"
+
+    [[GAP_pkg_cohomolo.download]]
+    sha256 = "3ed297032de5f0a273407b347df88dd607c79b6e061593607a08633ed40551e2"
+    url = "https://github.com/lgoettgens/GAP_pkg_cohomolo_jll.jl/releases/download/GAP_pkg_cohomolo-v101.61200.0+1/GAP_pkg_cohomolo.v101.61200.0.aarch64-unknown-freebsd.tar.gz"
+[[GAP_pkg_cohomolo]]
+arch = "powerpc64le"
+git-tree-sha1 = "e868456d3d4f4fe77d74e75bfabb9965824739fe"
+libc = "glibc"
+os = "linux"
+
+    [[GAP_pkg_cohomolo.download]]
+    sha256 = "e2473484d3e5ad64ef98a5376fcc9a5d65cb870667d1dba0393185cb9386f247"
+    url = "https://github.com/lgoettgens/GAP_pkg_cohomolo_jll.jl/releases/download/GAP_pkg_cohomolo-v101.61200.0+1/GAP_pkg_cohomolo.v101.61200.0.powerpc64le-linux-gnu.tar.gz"
+[[GAP_pkg_cohomolo]]
+arch = "riscv64"
+git-tree-sha1 = "742528a35242a13040241fc73c73b770ae57622a"
+libc = "glibc"
+os = "linux"
+
+    [[GAP_pkg_cohomolo.download]]
+    sha256 = "ba9fe2bc7f76454566f1fce640baf064a3ad22d0d04f8fa9924b375ee4602ca3"
+    url = "https://github.com/lgoettgens/GAP_pkg_cohomolo_jll.jl/releases/download/GAP_pkg_cohomolo-v101.61200.0+1/GAP_pkg_cohomolo.v101.61200.0.riscv64-linux-gnu.tar.gz"
+[[GAP_pkg_cohomolo]]
+arch = "x86_64"
+git-tree-sha1 = "06e761b06f562a9fd32b3517e5f3ff5c41de5ff2"
+os = "macos"
+
+    [[GAP_pkg_cohomolo.download]]
+    sha256 = "40eb829832d35460e8f287e232aa7481f2eadcec2a9fc36e69babda68c69d13d"
+    url = "https://github.com/lgoettgens/GAP_pkg_cohomolo_jll.jl/releases/download/GAP_pkg_cohomolo-v101.61200.0+1/GAP_pkg_cohomolo.v101.61200.0.x86_64-apple-darwin.tar.gz"
+[[GAP_pkg_cohomolo]]
+arch = "x86_64"
+git-tree-sha1 = "8cb90de3ae18f7a6df22620dbdf19ed7d723a3f8"
+libc = "glibc"
+os = "linux"
+
+    [[GAP_pkg_cohomolo.download]]
+    sha256 = "f9c668bf6c6201bb773a3be9bc63bd05a8af8c5910a793f7b4ecbe5ab14d13c4"
+    url = "https://github.com/lgoettgens/GAP_pkg_cohomolo_jll.jl/releases/download/GAP_pkg_cohomolo-v101.61200.0+1/GAP_pkg_cohomolo.v101.61200.0.x86_64-linux-gnu.tar.gz"
+[[GAP_pkg_cohomolo]]
+arch = "x86_64"
+git-tree-sha1 = "709031f181d1159d16622a8a653a5125d15cb79e"
+libc = "musl"
+os = "linux"
+
+    [[GAP_pkg_cohomolo.download]]
+    sha256 = "ba8e1bca221004386931527ab32ce9baf6a4af60574da3c4ec489b30503a667f"
+    url = "https://github.com/lgoettgens/GAP_pkg_cohomolo_jll.jl/releases/download/GAP_pkg_cohomolo-v101.61200.0+1/GAP_pkg_cohomolo.v101.61200.0.x86_64-linux-musl.tar.gz"
+[[GAP_pkg_cohomolo]]
+arch = "x86_64"
+git-tree-sha1 = "f7ffcd74599634ff09b38402522d1d634f175a45"
+os = "freebsd"
+
+    [[GAP_pkg_cohomolo.download]]
+    sha256 = "4f957a997b09786f876165f09065cc1da307d799f16cc86d4294ea667db04300"
+    url = "https://github.com/lgoettgens/GAP_pkg_cohomolo_jll.jl/releases/download/GAP_pkg_cohomolo-v101.61200.0+1/GAP_pkg_cohomolo.v101.61200.0.x86_64-unknown-freebsd.tar.gz"
